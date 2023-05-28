@@ -1,4 +1,4 @@
-# 沙漏
+# 瑞思拜
 
-我的个人博客：<https://chauby.github.io>，欢迎 Star 和 Fork。
+我是big-cousins，我的个人博客：<https://big-cousins.github.io>，欢迎 Star 和 Fork。
 
