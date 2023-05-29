@@ -27,10 +27,11 @@ sidebar-about-description: "知识就是力量。"
 # 侧边栏头像
 # sidebar-avatar: /img/sidebar-avatar.jpg
 
-作者：浅小畅
-链接：https://juejin.cn/post/6844903792723361805
-来源：稀土掘金
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+## 标签设置
+# 是否使用首页标签
+featured-tags: true
+# 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0
 
 minima:
   # Minima date format.
