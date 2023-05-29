@@ -19,6 +19,18 @@ plugins:
   - jekyll-seo-tag
 
 # Theme-specific settings
+## 侧边栏设置
+# 是否开启侧边栏 true 开始 false 关闭
+sidebar: true
+# 侧边栏描述语句
+sidebar-about-description: "知识就是力量。"
+# 侧边栏头像
+# sidebar-avatar: /img/sidebar-avatar.jpg
+
+作者：浅小畅
+链接：https://juejin.cn/post/6844903792723361805
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 minima:
   # Minima date format.
