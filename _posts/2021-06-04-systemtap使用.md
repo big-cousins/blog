@@ -5,8 +5,6 @@ categories: Blog
 keywords: systemtap
 ---
 
-# systemtap
-
 ## 安装
 
 - 在centos下安装
