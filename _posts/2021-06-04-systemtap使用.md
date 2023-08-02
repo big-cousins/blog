@@ -206,3 +206,24 @@ stap -L 'process("***").statement("*")'
 printf(\n%s\n", ctime(gettimeofday_s()))
 ```
 
+
+
+
+
+## 例子
+
+- **打印子进程名**
+
+process.stp
+
+```shell
+probe kprocess.exec_complete {
+  if (execname() == "find")
+        printf("name: %s, %s pid: %d, tid: %d\n", name, execname(), pid(), tid());
+}
+probe kprocess.exec_complete {
+  if (execname() == "io")
+        printf("name: %s, %s pid: %d, tid: %d\n", name, execname(), pid(), tid());
+}
+```
+
