@@ -1,11 +1,9 @@
 ---
 layout: post
-title: open flag
+title: linux open flag
 categories: Blog
 keywords: 文件系统 open
 ---
-
-Linux 文件的open属性
 
 文件的open属性，由open()的flags参数指明。flags参数可分为三类：打开方式、访问方式、I/O操作方式
 

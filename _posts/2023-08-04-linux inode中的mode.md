@@ -5,10 +5,6 @@ categories: Blog
 keywords: linux 文件系统
 ---
 
-linux文件系统inode中mode
-
-## 思考
-
 1，如何判断文件的类型：目录/文件
 2，如何获取文件的用户权限
 上面的问题如果要回答，得研究inode中的mode成员
