@@ -1,7 +1,9 @@
 ---
 layout: post
 title: linux open flag
-categories: Blog
+date: 2023-08-04
+categories: 文件系统
+tag: open
 keywords: 文件系统 open
 ---
 

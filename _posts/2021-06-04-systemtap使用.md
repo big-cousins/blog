@@ -1,7 +1,9 @@
 ---
 layout: post
 title: systemtap使用
-categories: Blog
+date: 2021-06-04
+categories: linux
+tag: systemtap
 keywords: systemtap
 ---
 

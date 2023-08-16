@@ -1,7 +1,9 @@
 ---
 layout: post
 title: inode中mode字段
-categories: Blog
+date: 2023-08-04
+categories: 文件系统
+tag: inode mode
 keywords: linux 文件系统
 ---
 
@@ -58,5 +60,4 @@ r 读权限read  4，即100表示有读权限
 w 写权限write 2，即010表示有写权限
 
 x 操作权限execute  1，即001表示有执行权限。
-
 
